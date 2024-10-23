@@ -1,3 +1,4 @@
 # test-project
-For working only
+For working only.
 its a markdown file.
+To preview select ctrl+shif+v.
